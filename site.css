@@ -40,26 +40,6 @@ body {
     height: 100%;
     overflow:auto;
   }
-  
-  #imprint{
-    padding-top: 170;
-    padding-left: 35;
-    background-color: lavender;
-    height: 100%;
-    font-size: larger;
-    overflow: scroll;
-  }
-
-  #fewo1{
-    padding-top: 170;
-    padding-left: 35;
-    background-color: lavender;
-    font-size: larger;
-    height: 100%;
-    overflow: scroll;
-  }
-
-
 
 .bottombar {
     overflow: hidden;
